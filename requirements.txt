@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+networkx
+pyvis
+streamlit-folium
+folium
+pandas
+python-dotenv
+pillow
